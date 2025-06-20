@@ -1,0 +1,1 @@
+web: java -jar build/libs/InmoMarketBackEnd-0.0.1-SNAPSHOT.jar
